@@ -6,18 +6,18 @@ inLanguage: null
 starred: true
 keywords: []
 description: "Quienes somos ?\_"
-datePublished: '2016-04-17T17:17:45.315Z'
-dateModified: '2016-03-22T22:56:25.704Z'
+datePublished: '2016-04-17T17:24:37.891Z'
+dateModified: '2016-04-17T17:23:37.272Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-17-quienes-somos.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-17-quienes-somos.md
-published: true
 url: quienes-somos/index.html
 _type: Article
 
@@ -47,6 +47,4 @@ incluso durante festivos o fines de semana
 
 - Opciones de estudio acordes a sus planes futuros de residencia . 
 
-Donde estudiar?  
-
-Te brinda informacion valiosa sobre cada Estado y ciudad para que puedas tomar la opcion mas conveniente en cuanto a tus gustos, metas y presupuesto bien sea pensando en aplicar a la residencia, trabajar de manera casual, reunirte con familiares.
+Donde estudiar?  brindamos informacion valiosa sobre cada Estado y ciudad para que puedas tomar la opcion mas conveniente en cuanto a tus gustos, metas y presupuesto bien sea pensando en aplicar a la residencia, trabajar de manera casual, reunirte con familiares.
