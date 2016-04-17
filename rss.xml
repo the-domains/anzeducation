@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[ANZ International Education]]></title>
         <description><![CDATA[ANZ International Education]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anzeducation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Apr 2016 17:17:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 17 Apr 2016 17:24:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anzeducation/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae9a9dd-2c5c-4a9b-8c81-fdd2e5157a0a.jpg">]]></description>
-            <link>undefinedquienes-somos/index.html</link>
+            <link>https://thegrid.ai/anzeducation/quienes-somos/index.html</link>
             <guid isPermaLink="false">cc0e000c-9712-4049-9ba6-9171f5053f1e</guid>
-            <pubDate>Sun, 17 Apr 2016 17:17:45 GMT</pubDate>
+            <pubDate>Sun, 17 Apr 2016 17:24:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
