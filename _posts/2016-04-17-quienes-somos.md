@@ -3,21 +3,16 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
 description: "Quienes somos ?\_"
-datePublished: '2016-04-17T17:24:37.891Z'
-dateModified: '2016-04-17T17:23:37.272Z'
+datePublished: '2016-06-01T17:13:39.807Z'
+dateModified: '2016-06-01T17:13:09.892Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-17-quienes-somos.md
-published: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: null
+starred: true
 url: quienes-somos/index.html
 _type: Article
 
